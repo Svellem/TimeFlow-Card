@@ -275,7 +275,7 @@ const languages: Record<string, LanguageRecord> = {
       remaining_with_label: '{time} tid igjen på {label}',
       remaining_with_device: '{time} tid igjen på {device}',
       paused_time_left: 'Timeout - {time} tid igjen',
-      google_paused: 'Google Home er på pause - {time} venstre',
+      google_paused: 'Google Home er på pause - {time} igjen',
       timer_ready: 'Tid klar',
     },
     countdown: {
